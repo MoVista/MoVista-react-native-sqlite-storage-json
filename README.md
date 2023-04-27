@@ -1,5 +1,5 @@
 # react-native-sqlite-storage-json
-Forked from the repo that did all the real work. Since the repo seems to be abandondned and I needed https://github.com/andpor/react-native-sqlite-storage/pull/494 merged to get Android 11 working with JSON functions I made this repo that is effectively the main branch with this fixed merged on top of it.
+Forked from the repo that did all the real work. Since the repo seems to be abandondned and I needed https://github.com/andpor/react-native-sqlite-storage/pull/494 merged to get Android 11 working with JSON functions I made this repo that is effectively the main branch with this fix merged on top of it.
 
 SQLite3 Native Plugin for React Native for both Android (Classic and Native), iOS and Windows
 
